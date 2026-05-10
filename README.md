@@ -22,7 +22,9 @@ The APB protocol mainly operates using three phases:
 
 ## TOOLS USED TO IMPLEMENT:
 1.QuestaSim-64 10.7c
+
 2.Notepad++
+
 <img width="218" height="126" alt="image" src="https://github.com/user-attachments/assets/164d997c-016e-468f-a735-5f092593cb56" />
 
 
